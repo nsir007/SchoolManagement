@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data.Student\Data.Student.csproj" />
+    <ProjectReference Include="..\Library.Core\Library.Core.csproj" />
+    <ProjectReference Include="..\VM\VM.csproj" />
+  </ItemGroup>
+
+</Project>

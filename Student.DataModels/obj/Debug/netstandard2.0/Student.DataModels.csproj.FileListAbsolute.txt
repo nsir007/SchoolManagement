@@ -1,0 +1,40 @@
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\Student.DataModels.deps.json
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\Student.DataModels.dll
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\Student.DataModels.pdb
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.csprojAssemblyReference.cache
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.csproj.CoreCompileInputs.cache
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.AssemblyInfoInputs.cache
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.AssemblyInfo.cs
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.csproj.CopyComplete
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.dll
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.pdb
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\VM.dll
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\VM.pdb
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\Student.DataModels.deps.json
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\Student.DataModels.dll
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\Student.DataModels.pdb
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\VM.dll
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\VM.pdb
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.csprojAssemblyReference.cache
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.csproj.CoreCompileInputs.cache
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.AssemblyInfoInputs.cache
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.AssemblyInfo.cs
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.csproj.CopyComplete
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.dll
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.pdb
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\Student.DataModels.deps.json
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\Student.DataModels.dll
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\Student.DataModels.pdb
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\VM.dll
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\bin\Debug\netstandard2.0\VM.pdb
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.csprojAssemblyReference.cache
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.AssemblyInfoInputs.cache
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.AssemblyInfo.cs
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.csproj.CoreCompileInputs.cache
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.csproj.CopyComplete
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.dll
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Student.DataModels\obj\Debug\netstandard2.0\Student.DataModels.pdb

@@ -1,0 +1,31 @@
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Library.Core\bin\Debug\netstandard2.0\Library.Core.deps.json
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Library.Core\bin\Debug\netstandard2.0\Library.Core.dll
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Library.Core\bin\Debug\netstandard2.0\Library.Core.pdb
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Library.Core\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Library.Core\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.csproj.CoreCompileInputs.cache
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.AssemblyInfoInputs.cache
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.AssemblyInfo.cs
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.csproj.CopyComplete
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.dll
+E:\Nasrullah\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.pdb
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\bin\Debug\netstandard2.0\Library.Core.deps.json
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\bin\Debug\netstandard2.0\Library.Core.dll
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\bin\Debug\netstandard2.0\Library.Core.pdb
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.csproj.CoreCompileInputs.cache
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.AssemblyInfoInputs.cache
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.AssemblyInfo.cs
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.csproj.CopyComplete
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.dll
+E:\Nasrullah\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.pdb
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\bin\Debug\netstandard2.0\Library.Core.deps.json
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\bin\Debug\netstandard2.0\Library.Core.dll
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\bin\Debug\netstandard2.0\Library.Core.pdb
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.csprojAssemblyReference.cache
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.AssemblyInfoInputs.cache
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.AssemblyInfo.cs
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.csproj.CoreCompileInputs.cache
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.dll
+E:\ppppp\Project\Nasrullah Projects\School_Management_System_Backend\School_Management_System_Backend\Library.Core\obj\Debug\netstandard2.0\Library.Core.pdb

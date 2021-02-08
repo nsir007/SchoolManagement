@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7AxflH07O/KD+PywAYn1/HFGAxUQuY7KKlH233Ry++5xHqlaVjILn15o6iWEpqOu/Hh3vqE8kmMzAvbXdpM3JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nasrullah.shahid\\source\\repos\\SchoolManagement\\Student.DataModels\\Student.DataModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\nasrullah.shahid\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
